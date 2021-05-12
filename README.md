@@ -1,4 +1,4 @@
-# Exel
+# VBA Exel
 ### Examples of working with SQL. 
 
 to work you need to create an ODBS connection
